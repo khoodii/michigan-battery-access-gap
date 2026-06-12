@@ -1,0 +1,84 @@
+County,Median_Household_Income,dropoff_count,income_quartile,population,sites_per_100k,rucc_code,metro_nonmetro,rural_urban_class,county,address_count,coverage_pct
+Alcona,53568,0,Q1_lowest,10234,0.0,7,Nonmetro,Rural,Alcona,11020,107.7
+Oscoda,50581,0,Q1_lowest,8241,0.0,9,Nonmetro,Rural,Oscoda,7210,87.5
+Antrim,71421,1,Q4_highest,23624,4.23,6,Nonmetro,Suburban/Small City,Antrim,19467,82.4
+Benzie,72603,0,Q4_highest,17766,0.0,6,Nonmetro,Suburban/Small City,Benzie,14198,79.9
+Iosco,47777,0,Q1_lowest,25054,0.0,6,Nonmetro,Suburban/Small City,Iosco,19625,78.3
+Emmet,73724,4,Q4_highest,33895,11.8,6,Nonmetro,Suburban/Small City,Emmet,23848,70.4
+Wayne,59521,23,Q2,1734013,1.33,1,Metro,Urban/Metro,Wayne,1183872,68.3
+Arenac,56989,0,Q2,14694,0.0,6,Nonmetro,Suburban/Small City,Arenac,9268,63.1
+Huron,56963,0,Q2,30981,0.0,7,Nonmetro,Rural,Huron,19508,63.0
+Menominee,55688,1,Q1_lowest,22893,4.37,7,Nonmetro,Rural,Menominee,13978,61.1
+Macomb,76399,17,Q4_highest,881217,1.93,1,Metro,Urban/Metro,Macomb,536698,60.9
+Ogemaw,51983,1,Q1_lowest,21024,4.76,6,Nonmetro,Suburban/Small City,Ogemaw,12550,59.7
+Hillsdale,60869,0,Q2,45830,0.0,6,Nonmetro,Suburban/Small City,Hillsdale,27014,58.9
+Mason,62296,0,Q3,29449,0.0,6,Nonmetro,Suburban/Small City,Mason,16928,57.5
+Newaygo,61931,0,Q3,49654,0.0,3,Metro,Urban/Metro,Newaygo,27241,54.9
+Monroe,75272,2,Q4_highest,150500,1.33,1,Metro,Urban/Metro,Monroe,81030,53.8
+Sanilac,59074,0,Q2,41170,0.0,6,Nonmetro,Suburban/Small City,Sanilac,21131,51.3
+Branch,61958,1,Q3,43517,2.3,6,Nonmetro,Suburban/Small City,Branch,22085,50.8
+Grand Traverse,79486,10,Q4_highest,97519,10.25,3,Metro,Urban/Metro,Grand Traverse,48600,49.8
+Barry,77873,0,Q4_highest,61550,0.0,3,Metro,Urban/Metro,Barry,30031,48.8
+Allegan,80255,1,Q4_highest,118081,0.85,3,Metro,Urban/Metro,Allegan,55966,47.4
+Midland,77538,6,Q4_highest,82874,7.24,3,Metro,Urban/Metro,Midland,38596,46.6
+St. Joseph,64707,1,Q3,60964,1.64,3,Metro,Urban/Metro,St. Joseph,28143,46.2
+Marquette,64675,4,Q3,66657,6.0,3,Metro,Urban/Metro,Marquette,30183,45.3
+Saginaw,58347,6,Q2,190539,3.15,2,Metro,Urban/Metro,Saginaw,82599,43.4
+St. Clair,69349,4,Q3,159415,2.51,1,Metro,Urban/Metro,St. Clair,68781,43.1
+Muskegon,63495,3,Q3,176492,1.7,2,Metro,Urban/Metro,Muskegon,75262,42.6
+Oakland,95296,37,Q4_highest,1274395,2.9,1,Metro,Urban/Metro,Oakland,537897,42.2
+Genesee,60673,7,Q2,405813,1.72,2,Metro,Urban/Metro,Genesee,170334,42.0
+Montcalm,64892,0,Q3,63888,0.0,3,Metro,Urban/Metro,Montcalm,26235,41.1
+Jackson,65004,2,Q3,158510,1.26,3,Metro,Urban/Metro,Jackson,64579,40.7
+Kalamazoo,70525,6,Q4_highest,265066,2.26,2,Metro,Urban/Metro,Kalamazoo,105117,39.7
+Shiawassee,64464,1,Q3,68122,1.47,3,Metro,Urban/Metro,Shiawassee,26068,38.3
+Kent,80390,16,Q4_highest,667415,2.4,2,Metro,Urban/Metro,Kent,251043,37.6
+Eaton,78025,3,Q4_highest,110268,2.72,1,Metro,Urban/Metro,Eaton,41013,37.2
+Ottawa,87144,10,Q4_highest,305134,3.28,2,Metro,Urban/Metro,Ottawa,112557,36.9
+Ingham,64354,5,Q3,292406,1.71,1,Metro,Urban/Metro,Ingham,95018,32.5
+Livingston,101315,4,Q4_highest,202909,1.97,1,Metro,Urban/Metro,Livingston,63666,31.4
+Washtenaw,87156,8,Q4_highest,375329,2.13,1,Metro,Urban/Metro,Washtenaw,107474,28.6
+Lenawee,67013,2,Q3,98451,2.03,3,Metro,Urban/Metro,Lenawee,3568,3.6
+Leelanau,91943,0,Q4_highest,22355,0.0,3,Metro,Urban/Metro,Leelanau,490,2.2
+Kalkaska,60365,0,Q2,18038,0.0,6,Nonmetro,Suburban/Small City,Kalkaska,83,0.5
+Van Buren,66902,0,Q3,76258,0.0,3,Metro,Urban/Metro,Van Buren,229,0.3
+Wexford,63123,1,Q3,34152,2.93,6,Nonmetro,Suburban/Small City,Wexford,94,0.3
+Bay,60523,2,Q2,103126,1.94,3,Metro,Urban/Metro,Bay,149,0.1
+Lake,49680,0,Q1_lowest,11853,0.0,8,Nonmetro,Rural,,0,0.0
+Alpena,51909,0,Q1_lowest,28573,0.0,6,Nonmetro,Suburban/Small City,Alpena,2,0.0
+Montmorency,47803,0,Q1_lowest,9261,0.0,7,Nonmetro,Rural,,0,0.0
+Gogebic,49672,0,Q1_lowest,14526,0.0,7,Nonmetro,Rural,,0,0.0
+Clare,49805,1,Q1_lowest,30608,3.27,6,Nonmetro,Suburban/Small City,,0,0.0
+Ontonagon,51844,0,Q1_lowest,5951,0.0,9,Nonmetro,Rural,,0,0.0
+Gladwin,55576,0,Q1_lowest,25289,0.0,6,Nonmetro,Suburban/Small City,Gladwin,4,0.0
+Baraga,55117,0,Q1_lowest,8209,0.0,8,Nonmetro,Rural,,0,0.0
+Delta,54829,0,Q1_lowest,35784,0.0,6,Nonmetro,Suburban/Small City,,0,0.0
+Luce,54338,0,Q1_lowest,6230,0.0,9,Nonmetro,Rural,,0,0.0
+Keweenaw,53893,0,Q1_lowest,2103,0.0,9,Nonmetro,Rural,,0,0.0
+Roscommon,54106,0,Q1_lowest,23766,0.0,6,Nonmetro,Suburban/Small City,,0,0.0
+Isabella,53759,2,Q1_lowest,70311,2.84,3,Metro,Urban/Metro,,0,0.0
+Iron,53614,0,Q1_lowest,11228,0.0,8,Nonmetro,Rural,,0,0.0
+Oceana,63624,1,Q3,26467,3.78,6,Nonmetro,Suburban/Small City,,0,0.0
+Berrien,63152,3,Q3,153696,1.95,3,Metro,Urban/Metro,,0,0.0
+Osceola,57050,0,Q2,23460,0.0,6,Nonmetro,Suburban/Small City,,0,0.0
+Houghton,56573,1,Q1_lowest,35684,2.8,6,Nonmetro,Suburban/Small City,,0,0.0
+Alger,59406,0,Q2,9069,0.0,7,Nonmetro,Rural,,0,0.0
+Crawford,58614,0,Q2,14030,0.0,7,Nonmetro,Rural,,0,0.0
+Mackinac,58598,1,Q2,10799,9.26,8,Nonmetro,Rural,,0,0.0
+Calhoun,60385,4,Q2,134159,2.98,3,Metro,Urban/Metro,Calhoun,7,0.0
+Presque Isle,56713,0,Q1_lowest,12592,0.0,7,Nonmetro,Rural,,0,0.0
+Mecosta,57774,0,Q2,43240,0.0,6,Nonmetro,Suburban/Small City,,0,0.0
+Tuscola,62847,1,Q3,52245,1.91,3,Metro,Urban/Metro,,0,0.0
+Manistee,60879,0,Q2,24397,0.0,6,Nonmetro,Suburban/Small City,Manistee,2,0.0
+Gratiot,61128,1,Q2,40347,2.48,6,Nonmetro,Suburban/Small City,,0,0.0
+Cheboygan,61619,0,Q2,26152,0.0,6,Nonmetro,Suburban/Small City,,0,0.0
+Missaukee,61868,0,Q2,15453,0.0,7,Nonmetro,Rural,,0,0.0
+Dickinson,61882,1,Q3,25554,3.91,6,Nonmetro,Suburban/Small City,,0,0.0
+Chippewa,60631,0,Q2,37354,0.0,6,Nonmetro,Suburban/Small City,,0,0.0
+Schoolcraft,57708,0,Q2,7989,0.0,8,Nonmetro,Rural,,0,0.0
+Cass,68011,0,Q3,51547,0.0,3,Metro,Urban/Metro,Cass,3,0.0
+Otsego,67285,2,Q3,24397,8.2,6,Nonmetro,Suburban/Small City,Otsego,1,0.0
+Ionia,73436,1,Q4_highest,64697,1.55,3,Metro,Urban/Metro,Ionia,3,0.0
+Charlevoix,76495,1,Q4_highest,26856,3.72,6,Nonmetro,Suburban/Small City,Charlevoix,2,0.0
+Lapeer,76228,1,Q4_highest,89843,1.11,1,Metro,Urban/Metro,,0,0.0
+Clinton,85928,1,Q4_highest,79594,1.26,1,Metro,Urban/Metro,Clinton,3,0.0
